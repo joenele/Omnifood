@@ -78,9 +78,7 @@ Thank you for considering contributing to the Omnifood project! If you would lik
 
 2. Make the necessary changes, commit them, and push your branch to your forked repository.
 
-3. Submit a pull request to the `main` branch of the original repository, explaining the changes you made
-
-.
+3. Submit a pull request to the `main` branch of the original repository, explaining the changes you made.
 
 4. Be open to feedback and participate in discussions to improve your contribution.
 
